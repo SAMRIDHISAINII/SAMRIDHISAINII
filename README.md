@@ -1,4 +1,4 @@
-### Hello World, I'm Samridhi Saini:
+### Hello World, I'm Samridhi Saini ✋:
 
 
 - 🔭 I’m currently working on **Voicingtheunsaid(VTE)**
