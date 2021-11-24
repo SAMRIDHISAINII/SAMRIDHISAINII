@@ -8,11 +8,13 @@
 
 
 
-**Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+**Languages:**  Python, C++, Java, HTML, CSS, Javascript, SQL.
 
-**Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby.
+**Framework:** Flask, Django, React, Bootstrap.
 
-**Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+**Libraries:**  NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Seaborn, NLTK.
 
-**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+**Tools:** Visual Studio code, Andriod Studio, Git, jupyter notebook 
+
+**Design:** Figma, Adobe XD.
 
