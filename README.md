@@ -6,3 +6,13 @@
 - 👯 I’m looking to collaborate on **Web Development**
 - 😄 Pronouns : **She/Her**
 
+
+
+**Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+
+**Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby.
+
+**Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+
+**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+
