@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **Voicingtheunsaid(VTE)**
-- 🌱 I’m currently learning **Javascript and Data Structures**
+- 🌱 I’m currently learning **React and Data Structures**
 - 👯 I’m looking to collaborate on **Web Development**
 - 😄 Pronouns : **She/Her**
 - ⚡️ Fun Fact: **I produce music 😌**
