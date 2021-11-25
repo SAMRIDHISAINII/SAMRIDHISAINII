@@ -8,7 +8,11 @@
 - 👯 I’m looking to collaborate on **Web Development**
 - 😄 Pronouns : **She/Her**
 - ⚡️ Fun Fact: **I produce music 😌**
-
+- 📫 How to reach me: <p align="left">
+  <a href="https://www.linkedin.com/in/samridhi-saini-b358841a6/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 
 **Languages:**  Python, C++, Java, HTML, CSS, Javascript, SQL.
@@ -21,8 +25,4 @@
 
 **Design:** Figma, Adobe XD.
 
-- 📫 How to reach me: <p align="left">
-  <a href="https://www.linkedin.com/in/samridhi-saini-b358841a6/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+
