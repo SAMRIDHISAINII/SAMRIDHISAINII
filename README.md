@@ -20,4 +20,11 @@
 
 **Design:** Figma, Adobe XD.
 
+<h3>Find out about my professional life here:</h3>
+<a href="https://peerlist.io/hamza"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
 
+<h3 align="left">Connect with me:</h3>
+<a href="mailto:samrdihisaini01971@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
+<a href="https://www.linkedin.com/in/samridhi-saini-b358841a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
+
+<br />
