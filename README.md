@@ -1,7 +1,7 @@
 
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
-
+<!-- <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right"> -->
+https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif
 
 - 🔭 I’m currently working on **Voicingtheunsaid(VTE)**
 - 🌱 I’m currently learning **React and Data Structures**
