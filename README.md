@@ -1,7 +1,7 @@
 
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
-<!-- <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right"> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
+<!-- <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" /> -->
 
 
 
@@ -23,3 +23,9 @@
 
 **Design:** Figma, Adobe XD.
 
+- 📫 How to reach me: 
+<p align="center">
+  <a href="https://www.linkedin.com/in/samridhi-saini-b358841a6/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
