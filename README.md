@@ -24,7 +24,7 @@
 **Design:** Figma, Adobe XD.
 
 - 📫 How to reach me: 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/samridhi-saini-b358841a6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
