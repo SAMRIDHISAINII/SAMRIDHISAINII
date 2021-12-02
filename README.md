@@ -23,7 +23,6 @@
 <a href="mailto:samrdihisaini01971@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
 <a href="https://www.linkedin.com/in/samridhi-saini-b358841a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
 <a href="https://medium.com/@samridhisaini02002"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-![HackerRank](https://www.hackerrank.com/samridhisaini011/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
  
 
 
