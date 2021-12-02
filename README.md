@@ -13,7 +13,7 @@
 
 **Framework:** Flask, Django, React, Bootstrap.
 
-**Libraries:**  NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Seaborn, NLTK.
+**Libraries:**  NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Seaborn.
 
 **Tools:** Visual Studio code, Andriod Studio, Git, jupyter notebook 
 
