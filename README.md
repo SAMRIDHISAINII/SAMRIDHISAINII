@@ -25,4 +25,5 @@
 <a href="https://medium.com/@samridhisaini02002"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
  
 
+[![Samridhi's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
