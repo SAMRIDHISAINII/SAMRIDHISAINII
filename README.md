@@ -1,4 +1,5 @@
-GitHub profile
+</p align="center">
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samridhi, a.k.a ⚡Sam⚡</h2>
 # 💫About Me :
 Currently pursuing Second Year B.Tech in the field of Computer Science with specialization in Artificial Intelligence and Machine Learning. 
 A sum of my experiences, my mind thrives in discomfort and stressful situations. I am relentless & focused.
