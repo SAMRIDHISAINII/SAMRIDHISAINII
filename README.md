@@ -22,9 +22,8 @@ Besides this, I ‘love’ being a programmer which introduced me to the wonderf
 
 <!--   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SAMRIDHISAINII)  -->
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
   
-  https://github-readme-stats.vercel.app/api/top-langs/?username={SAMRIDHISAINII}
   
 
