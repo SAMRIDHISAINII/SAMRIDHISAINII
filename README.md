@@ -1,4 +1,4 @@
-GitHub profile
+<!-- GitHub profile
 # 💫About Me :
 Currently pursuing Second Year B.Tech in the field of Computer Science with specialization in Artificial Intelligence and Machine Learning. 
 A sum of my experiences, my mind thrives in discomfort and stressful situations. I am relentless & focused.
@@ -17,3 +17,4 @@ Besides this, I ‘love’ being a programmer which introduced me to the wonderf
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ -->
