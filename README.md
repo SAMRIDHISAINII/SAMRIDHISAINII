@@ -1,9 +1,9 @@
 ### Hi There 👋
 
-I am Samridhi Saini, a senior at Bennett University pursuing a major in Computer Science and Engineering.</strong> <br/>
+I am Samridhi Saini, a senior at Bennett University pursuing a major in computer science and engineering. </strong> <br/>
 I have worked in machine learning, front-end and back-end development, software development, and data science.</strong><br/>
 
-<strong>Ping me for projects, building cool stuff, implementing crazy ideas, or just talking about techie things.
+Ping me for projects, building cool stuff, implementing crazy ideas, or just talking about techie things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
