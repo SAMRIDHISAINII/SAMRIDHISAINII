@@ -1,8 +1,7 @@
 ### Hi There 👋
 
-Currently, I'm contributing as a Data Science Intern at Deloitte. I'm Samridhi Saini, a senior at Bennett University majoring in computer science and engineering. Throughout my academic journey, I've acquired experience in machine learning, software development, and data science.
 
-If you're interested in collaborating on projects, delving into innovative ideas, or simply engaging in tech discussions, feel free to reach out. Let's make this tech exploration a shared experience!
+Samridhi Saini here! I'm a senior at Bennett University majoring in computer science and engineering, currently interning at Deloitte in Data Science. Throughout my academic journey, I've acquired experience in machine learning, software development, and data science. Passionate about tech collaboration, project innovation, and engaging discussions. Let's connect for a shared tech exploration!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
