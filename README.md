@@ -1,8 +1,5 @@
 ### Hi There 👋
 
-
-
-
 Samridhi Saini here! I'm a senior at Bennett University majoring in computer science and engineering, currently working at Deloitte. Throughout my academic journey, I've acquired experience in machine learning, software development, and data science. Passionate about tech collaboration, project innovation, and engaging discussions. Let's connect for a shared tech exploration!
 
 <h3 align="left">Connect with me:</h3>
