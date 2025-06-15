@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-Samridhi Saini here! I am Btech majoring in computer science,currently working at Deloitte. Throughout my academic journey, I've acquired experience in machine learning, software development, and data science. Passionate about tech collaboration, project innovation, and engaging discussions. Let's connect for a shared tech exploration!
+Samridhi Saini here! I am Btech majoring in computer science, currently working at Deloitte. Throughout my academic journey, I've acquired experience in machine learning, software development, and data science. Passionate about tech collaboration, project innovation, and engaging discussions. Let's connect for a shared tech exploration!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
