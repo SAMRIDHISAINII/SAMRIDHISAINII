@@ -13,3 +13,6 @@ Samridhi Saini here! I am Btech majoring in computer science, currently working 
 </p>
 
 
+<div align="center">
+  <img src="https://open.spotify.com/playlist/2P3TFgafDIg0YOhokrbhAY?theme=dark&spin=true" alt="Widget with the current Spotify song"  />
+</div>
