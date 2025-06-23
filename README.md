@@ -11,4 +11,3 @@ Samridhi Saini here! I am Btech majoring in computer science, currently working 
 <a href="https://auth.geeksforgeeks.org/user/fiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fiji" height="22" width="32" /></a>
 <a href="https://open.spotify.com/track/38q370MXGlT5D5j8PE6hlH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="fiji" height="22" width="32" /></a>
 </p>
-
