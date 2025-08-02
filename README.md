@@ -93,12 +93,15 @@
 
 ---
 
+
 ## 🐍 GitHub Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samridhisainii/samridhisainii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samridhisainii/samridhisainii/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/samridhisainii/samridhisainii/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -112,5 +115,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samridhisainii&label=Profile%20views&color=0e75b6&style=flat" alt="samridhisainii" />
 </p>
-
 
