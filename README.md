@@ -49,7 +49,7 @@
 
 <br/>
 
-
+## Social
 
 <div align="center">
   <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -60,21 +60,23 @@
   <a href="https://open.spotify.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/19356818/samridhi" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </div>
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samridhisainii&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samridhisainii&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samridhisainii&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=samridhisainii&label=Profile%20views&color=0e75b6&style=flat" alt="samridhisainii" />
 </p>
+
 <!-- Connect section remains unchanged -->
 <!-- GitHub stats, views, donation and footer remain unchanged -->
