@@ -105,6 +105,7 @@
 
 ---
 
+
 ## 🎧 Now Playing on Spotify
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31trt5tds6vb67x5n3fliwr3tvsy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false&ring_color=rainbow&spin=true&scan=true" alt="Spotify Now Playing" />
