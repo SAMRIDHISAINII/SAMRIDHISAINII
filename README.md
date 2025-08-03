@@ -96,7 +96,9 @@
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/19356818/samridhi" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://your-podcast-link.com" target="_blank"><img src="https://img.shields.io/badge/MyPodcast-%23FF5C5C?style=for-the-badge&logo=podcast&logoColor=white" /></a>
 </div>
+
 
 ---
 
