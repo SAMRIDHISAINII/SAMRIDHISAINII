@@ -114,26 +114,5 @@
 ---
 
 
-## 🐍 GitHub Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samridhisainii/samridhisainii/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samridhisainii/samridhisainii/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/samridhisainii/samridhisainii/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
----
-
-
-## 🎧 Now Playing on Spotify
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31trt5tds6vb67x5n3fliwr3tvsy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false&ring_color=rainbow&spin=true&scan=true" alt="Spotify Now Playing" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samridhisainii&label=Profile%20views&color=0e75b6&style=flat" alt="samridhisainii" />
-</p>
 
