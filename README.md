@@ -28,7 +28,6 @@
 #### ❓ Ask me about Data Science, AI, ML, or trending sports topics  
 #### 📩 Email: samridhisaini01971@gmail.com  
 #### ⚡ Fun fact: I'm also a music producer  
-
 ---
 
 ## 🛠️ My Skill Set
