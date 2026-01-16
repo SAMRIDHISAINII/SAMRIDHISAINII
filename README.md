@@ -2,6 +2,7 @@
   <h1>Hi, I'm Samridhi! 👋</h1>
 </div>
 
+
 <div align="center">
   <table>
     <tr>
