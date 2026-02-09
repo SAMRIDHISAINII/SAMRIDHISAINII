@@ -101,24 +101,3 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=samridhisainii&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=samridhisainii&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samridhisainii&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-
-
-
