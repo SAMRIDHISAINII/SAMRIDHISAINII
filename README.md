@@ -96,6 +96,9 @@
   <a href="https://stackoverflow.com/users/19356818/samridhi" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://on.soundcloud.com/SPdbUKHxnnD8PlwmYH" target="_blank"><img src="https://img.shields.io/badge/MyPodcast-%23FF5C5C?style=for-the-badge&logo=podcast&logoColor=white" /></a>
   <a href="https://medium.com/@samridhisaini02002" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+
+  
   <a href="https://www.geeksforgeeks.org/profile/fiji" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </div>
 
