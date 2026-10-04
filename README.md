@@ -27,7 +27,7 @@
 #### 📚 Learning Agentic AI  
 #### ❓ Ask me about Data Science, AI, ML, or trending sports topics  
 #### 📩 Email: samridhisaini01971@gmail.com  
-#### ⚡ Fun fact: I'm also a music producer  
+#### ⚡ Fun fact: Beyond data and AI, I’m a music producer, an avid traveller, and a curious cook—always creating something, exploring somewhere, or experimenting with something new.
 ---
 
 ## 🛠️ My Skill Set
