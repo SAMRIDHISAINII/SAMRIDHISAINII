@@ -99,6 +99,12 @@
   <a href="https://medium.com/@samridhisaini02002" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
  <a href="https://substack.com/@samfijiii" target="_blank">
   <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+   <a href="https://medium.com/@samridhisaini02002" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://payhip.com/b/FbWPE" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20My%20Ebook-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
 </a>
  
   <a href="https://www.geeksforgeeks.org/profile/fiji" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
