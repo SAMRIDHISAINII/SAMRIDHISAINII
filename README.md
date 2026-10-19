@@ -48,12 +48,13 @@ $ npm install samridhi
 
 ```yaml
 
-data engineering and analytics:
-  processing:    [Python, SQL, Spark, PySpark, Scala]
-  platforms:     [Power BI, Tableau, Spotfire, Looker, Alteryx]
-  modeling:      [DAX, Power Query, Dimensional Modeling]
-  databases:     [MySQL, PostgreSQL, SQL Server, Snowflake, Redshift, BigQuery]
-  pipelines:     [ETL, ELT, dbt, Airflow]
+data_engineering_and_analytics:
+  processing:      [Python, SQL, Spark, PySpark, Scala]
+  platforms:       [Power BI, Tableau, Spotfire, Looker, Alteryx]
+  databases:       [MySQL, PostgreSQL, SQL Server]
+  warehouse:       [Snowflake, Redshift, BigQuery]
+  pipelines:       [ETL, ELT]
+  transformation:  [dbt]
 
 ai:
   frameworks:      [LangChain, LangGraph, LlamaIndex]
