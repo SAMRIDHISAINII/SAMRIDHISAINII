@@ -4,7 +4,7 @@
 
 **status:** ● building &nbsp; · &nbsp; **branch:** `Gurgaon/main` &nbsp; · &nbsp; **license:** human (MIT-ish)
 
-[![runtime](https://img.shields.io/badge/runtime-Chaas%20%2B%20120g%20%2B%20Protein%20%2B%20curiosity-6F4E37)](#)
+[![runtime](https://img.shields.io/badge/runtime-Chaas%20%2B%20120g Protein%20%2B%20curiosity-6F4E37)](#)
 [![focus](https://img.shields.io/badge/focus-Data%20%2B%20AI-00A896)](#)
 [![mode](https://img.shields.io/badge/mode-automation--first-6C63FF)](#)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blueviolet)](#)
