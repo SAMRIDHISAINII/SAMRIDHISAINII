@@ -52,15 +52,11 @@ $ npm install samridhi
 
 ```yaml
 core:
-  languages:      [Python, SQL, Scala, R, JavaScript]
-  foundations:    [OOP, Modular Design, Data Structures & Algorithms]
-  focus:          [Data Engineering, Analytics Engineering, Agentic AI]
-  principles:     [Automation-First, Data-Driven Design]
-
-analytics:
-  platforms:      [Power BI, Tableau, Spotfire, Looker, Alteryx]
-  modeling:       [DAX, Power Query, Dimensional Modeling]
-  automation:     [n8n, Power Automate, Excel VBA]
+  languages:     [Python, SQL, Scala, R, JavaScript]
+  foundations:   [OOP, Data Structures & Algorithms, Modular Design]
+  architecture:  [System Design, API Design, Distributed Systems]
+  focus:         [Data Engineering, Analytics Engineering, Agentic AI]
+  principles:    [Automation-First, Data-Driven Design]
 
 data_engineering:
   processing:     [Apache Spark, PySpark, Spark SQL]
@@ -69,14 +65,23 @@ data_engineering:
   pipelines:      [ETL, ELT, Batch Processing]
   integration:    [Azure Data Factory, Azure Synapse]
 
+analytics:
+  platforms:     [Power BI, Tableau, Spotfire, Looker, Alteryx]
+  modeling:      [DAX, Power Query, Dimensional Modeling]
+  languages:     [Python, SQL, Scala, R]
+  databases:     [MySQL, PostgreSQL, SQL Server, Snowflake]
+
 ai:
-  frameworks:     [LangChain, LangGraph]
-  foundations:    [LLMs, RAG, Embeddings, Vector Databases]
-  agents:         [Tool Calling, Multi-Agent Systems]
-  assistants:     [ChatGPT, Claude, Microsoft Copilot]
-  development:    [Cursor, GitHub Copilot]
-  platforms:      [Microsoft Fabric]
-  applications:   [Legal AI, Document Intelligence, AI Workflows]
+  frameworks:      [LangChain, LangGraph, LlamaIndex]
+  ml_frameworks:   [Scikit-learn, PyTorch, TensorFlow, Keras]
+  llm_stack:       [LLMs, Generative AI, RAG, Embeddings, Transformers]
+  models:          [OpenAI Models, Claude Models, Open-Weight LLMs]
+  agents:          [Tool Calling, Multi-Agent Systems, Agent Orchestration, MCP]
+  retrieval:       [Semantic Search, Hybrid Search, Reranking]
+  vector_stores:   [FAISS, Chroma, Pinecone, Qdrant]
+  multimodal:      [Vision-Language Models, Document Intelligence]
+  evaluation:      [Ragas, DeepEval, Model Evaluation, Guardrails]
+  model_serving:   [Ollama, vLLM, Hugging Face Transformers]
 
 backend:
   languages:      [Python, JavaScript, SQL]
@@ -89,18 +94,17 @@ backend:
 automation:
   workflows:      [n8n, Zapier, Apache Airflow]
   orchestration:  [LangGraph, Event-Driven Workflows]
-  tools:          [Power Automate, Excel VBA]
+  tools:          [ChatGPT, Claude, Microsoft Copilot, Cursor, GitHub Copilot, Microsoft Fabric]
 
 cloud:
   aws:             [EC2, ECS, S3, Lambda, SQS, EventBridge]
   azure:           [Azure Data Factory, Azure Synapse, Azure Data Lake]
-  deployment:      [Linux, Docker, Kubernetes, CI/CD]
-  ops:             [Jenkins, GitHub Actions, CloudWatch, Grafana]
+  deployment:      [Docker, Kubernetes, CI/CD]
+  ops:             [Jenkins, GitHub Actions]
 
 security:
   application:     [OWASP Top 10, Secure Coding]
   api:             [Authentication, Authorization, OAuth 2.0, JWT]
-  infrastructure:  [Linux Security, Docker Security]
   data:            [Encryption, Secrets Management, PII Protection]
 
 finance:
