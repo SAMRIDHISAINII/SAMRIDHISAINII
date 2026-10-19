@@ -48,26 +48,19 @@ $ npm install samridhi
 
 ```yaml
 
-data_engineering:
-  processing:       [Python, Apache Spark, PySpark, SQL]
-  orchestration:    [Apache Airflow]
-  warehouse:        [Snowflake, Amazon Redshift, BigQuery]
-  pipelines:        [ETL, ELT, Batch Processing, Incremental Processing]
-
-analytics:
+data engineering and analytics:
+  processing:    [Python, SQL, Spark, PySpark, Scala]
   platforms:     [Power BI, Tableau, Spotfire, Looker, Alteryx]
   modeling:      [DAX, Power Query, Dimensional Modeling]
-  languages:     [Python, SQL, Scala, R]
-  databases:     [MySQL, PostgreSQL, SQL Server, Snowflake]
+  databases:     [MySQL, PostgreSQL, SQL Server, Snowflake, Redshift, BigQuery]
+  pipelines:     [ETL, ELT, dbt, Airflow]
 
 ai:
   frameworks:      [LangChain, LangGraph, LlamaIndex]
   llm_stack:       [LLMs, Generative AI, RAG, Embeddings, Transformers]
   models:          [OpenAI Models, Claude Models, Open-Weight LLMs]
   agents:          [Tool Calling, Multi-Agent Systems, Agent Orchestration, MCP]
-  retrieval:       [Semantic Search, Hybrid Search, Reranking]
   vector_stores:   [FAISS, Chroma, Pinecone, Qdrant]
-  multimodal:      [Vision-Language Models, Document Intelligence]
   evaluation:      [Ragas, DeepEval, Model Evaluation, Guardrails]
 
 backend:
@@ -75,13 +68,11 @@ backend:
   api:            [REST, gRPC, OpenAPI]
   databases:      [PostgreSQL, MySQL, MongoDB, DynamoDB]
   cache:          [Redis]
-  search:         [Elasticsearch, OpenSearch]
 
 cloud:
   aws:             [EC2, ECS, S3, Lambda, SQS, EventBridge]
   azure:           [Azure Data Factory, Azure Synapse, Azure Data Lake]
-  deployment:      [Docker, Kubernetes, CI/CD]
-  ops:             [Jenkins, GitHub Actions]
+  deployment:      [Docker, Kubernetes]
 
 security:
   application:     [OWASP Top 10, Secure Coding]
