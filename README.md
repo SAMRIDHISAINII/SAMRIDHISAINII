@@ -30,7 +30,7 @@
 
 ---
 
-> An engineer building at the intersection of Data, AI, and business.
+> An engineer building at the intersection of Data, AI, and Business.
 >
 > Exploring `Agentic AI` · Building `NayanGaya` in Legal Tech · Developing `EV Live AI Tracking` · Working on `PerfDP`.
 >
