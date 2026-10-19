@@ -38,32 +38,21 @@
 
 ```bash
 $ npm install samridhi
-
 > compiling analytical thinking...
-> resolving dependencies (curiosity, coffee, creativity)...
 > initializing data pipelines...
 > booting AI agents...
-> exploring new business ideas...
-> loading music production module...
 > ✔ ready: always building
 ```
 
 ## ✦ Features
 
 ```yaml
-core:
-  languages:     [Python, SQL, Scala, R, JavaScript]
-  foundations:   [OOP, Data Structures & Algorithms, Modular Design]
-  architecture:  [System Design, API Design, Distributed Systems]
-  focus:         [Data Engineering, Analytics Engineering, Agentic AI]
-  principles:    [Automation-First, Data-Driven Design]
 
 data_engineering:
-  processing:     [Apache Spark, PySpark, Spark SQL]
-  warehouse:      [Snowflake, Redshift, BigQuery]
-  ecosystem:      [Hadoop, HDFS, Hive]
-  pipelines:      [ETL, ELT, Batch Processing]
-  integration:    [Azure Data Factory, Azure Synapse]
+  processing:       [Python, Apache Spark, PySpark, SQL]
+  orchestration:    [Apache Airflow]
+  warehouse:        [Snowflake, Amazon Redshift, BigQuery]
+  pipelines:        [ETL, ELT, Batch Processing, Incremental Processing]
 
 analytics:
   platforms:     [Power BI, Tableau, Spotfire, Looker, Alteryx]
@@ -73,7 +62,6 @@ analytics:
 
 ai:
   frameworks:      [LangChain, LangGraph, LlamaIndex]
-  ml_frameworks:   [Scikit-learn, PyTorch, TensorFlow, Keras]
   llm_stack:       [LLMs, Generative AI, RAG, Embeddings, Transformers]
   models:          [OpenAI Models, Claude Models, Open-Weight LLMs]
   agents:          [Tool Calling, Multi-Agent Systems, Agent Orchestration, MCP]
@@ -81,20 +69,13 @@ ai:
   vector_stores:   [FAISS, Chroma, Pinecone, Qdrant]
   multimodal:      [Vision-Language Models, Document Intelligence]
   evaluation:      [Ragas, DeepEval, Model Evaluation, Guardrails]
-  model_serving:   [Ollama, vLLM, Hugging Face Transformers]
 
 backend:
-  languages:      [Python, JavaScript, SQL]
   frameworks:     [FastAPI, Django, Node.js, Express.js]
   api:            [REST, gRPC, OpenAPI]
   databases:      [PostgreSQL, MySQL, MongoDB, DynamoDB]
   cache:          [Redis]
   search:         [Elasticsearch, OpenSearch]
-
-automation:
-  workflows:      [n8n, Zapier, Apache Airflow]
-  orchestration:  [LangGraph, Event-Driven Workflows]
-  tools:          [ChatGPT, Claude, Microsoft Copilot, Cursor, GitHub Copilot, Microsoft Fabric]
 
 cloud:
   aws:             [EC2, ECS, S3, Lambda, SQS, EventBridge]
@@ -110,7 +91,6 @@ security:
 finance:
   corporate:       [Corporate Finance, Financial Statements, FP&A]
   audit:            [Audit Analytics, Internal Controls, Risk Assessment]
-  operations:       [Accounts Receivable, Accounts Payable, Reconciliation]
   working_capital:  [Working Capital, Cash Conversion Cycle, Cash Flow Optimization]
 ```
 
