@@ -1,6 +1,6 @@
  <div align="center">
 
-# `samridhi` &nbsp;·&nbsp; v3.6.0
+# `samridhi` &nbsp;·&nbsp; v3.7.0
 
 **status:** ● building &nbsp; · &nbsp; **branch:** `Gurgaon/main` &nbsp; · &nbsp; **license:** human (MIT-ish)
 
@@ -30,11 +30,11 @@
 
 ---
 
-> A data-driven engineer building analytics, intelligent workflows, and AI-powered systems.
+> An engineer building at the intersection of Data, AI, and business.
 >
-> Currently maintained at `Deloitte` · Exploring `Agentic AI` · Building in `Legal Tech`.
+> Exploring `Agentic AI` · Building `NayanGaya` in Legal Tech · Developing `EV Live AI Tracking` · Working on `PerfDP`.
 >
-> Processes data at scale, automates the repetitive, and occasionally produces music instead of debugging.
+> Turning complex data into intelligent systems, automating workflows, exploring emerging technologies and business ideas, and creating things that make an impact.
 
 ```bash
 $ npm install samridhi
@@ -43,6 +43,7 @@ $ npm install samridhi
 > resolving dependencies (curiosity, coffee, creativity)...
 > initializing data pipelines...
 > booting AI agents...
+> exploring new business ideas...
 > loading music production module...
 > ✔ ready: always building
 ```
@@ -51,100 +52,109 @@ $ npm install samridhi
 
 ```yaml
 core:
-  languages:     [Python, SQL, Scala, R, JavaScript]
-  foundations:   [OOP, Modular Design, Data Structures & Algorithms]
-  focus:         [Data Engineering, Analytics Engineering, Agentic AI]
-  principles:    [Automation-First, Data-Driven Design]
+  languages:      [Python, SQL, Scala, R, JavaScript]
+  foundations:    [OOP, Modular Design, Data Structures & Algorithms]
+  focus:          [Data Engineering, Analytics Engineering, Agentic AI]
+  principles:     [Automation-First, Data-Driven Design]
 
 analytics:
-  platforms:     [Power BI, Tableau, Spotfire, Looker, Alteryx]
-  modeling:      [DAX, Power Query, Dimensional Modeling]
-  automation:    [n8n, Power Automate, Excel VBA]
+  platforms:      [Power BI, Tableau, Spotfire, Looker, Alteryx]
+  modeling:       [DAX, Power Query, Dimensional Modeling]
+  automation:     [n8n, Power Automate, Excel VBA]
 
 data_engineering:
-  processing:    [Apache Spark, PySpark, Spark SQL]
-  warehouse:     [Snowflake, Redshift, BigQuery]
-  ecosystem:     [Hadoop, HDFS, Hive]
-  pipelines:     [ETL, ELT, Batch Processing]
-  integration:   [Azure Data Factory, Azure Synapse]
+  processing:     [Apache Spark, PySpark, Spark SQL]
+  warehouse:      [Snowflake, Redshift, BigQuery]
+  ecosystem:      [Hadoop, HDFS, Hive]
+  pipelines:      [ETL, ELT, Batch Processing]
+  integration:    [Azure Data Factory, Azure Synapse]
 
 ai:
-  frameworks:    [LangChain, LangGraph]
-  foundations:   [LLMs, RAG, Embeddings, Vector Databases]
-  agents:        [Tool Calling, Multi-Agent Systems]
-  assistants:    [ChatGPT, Claude, Microsoft Copilot]
-  development:   [Cursor, GitHub Copilot]
-  platforms:     [Microsoft Fabric]
+  frameworks:     [LangChain, LangGraph]
+  foundations:    [LLMs, RAG, Embeddings, Vector Databases]
+  agents:         [Tool Calling, Multi-Agent Systems]
+  assistants:     [ChatGPT, Claude, Microsoft Copilot]
+  development:    [Cursor, GitHub Copilot]
+  platforms:      [Microsoft Fabric]
+  applications:   [Legal AI, Document Intelligence, AI Workflows]
 
 backend:
-  languages:     [Python, JavaScript, SQL]
-  frameworks:    [FastAPI, Django, Node.js, Express.js]
-  api:           [REST, gRPC, OpenAPI]
-  databases:     [PostgreSQL, MySQL, MongoDB, DynamoDB]
-  cache:         [Redis]
-  search:        [Elasticsearch, OpenSearch]
+  languages:      [Python, JavaScript, SQL]
+  frameworks:     [FastAPI, Django, Node.js, Express.js]
+  api:            [REST, gRPC, OpenAPI]
+  databases:      [PostgreSQL, MySQL, MongoDB, DynamoDB]
+  cache:          [Redis]
+  search:         [Elasticsearch, OpenSearch]
 
 automation:
-  workflows:     [n8n, Zapier, Apache Airflow]
-  orchestration: [LangGraph, Event-Driven Workflows]
+  workflows:      [n8n, Zapier, Apache Airflow]
+  orchestration:  [LangGraph, Event-Driven Workflows]
+  tools:          [Power Automate, Excel VBA]
 
 cloud:
-  aws:           [EC2, ECS, S3, Lambda, SQS, EventBridge]
-  azure:         [Azure Data Factory, Azure Synapse, Azure Data Lake]
-  deployment:    [Linux, Docker, Kubernetes, CI/CD]
-  ops:           [Jenkins, GitHub Actions, CloudWatch, Grafana]
+  aws:             [EC2, ECS, S3, Lambda, SQS, EventBridge]
+  azure:           [Azure Data Factory, Azure Synapse, Azure Data Lake]
+  deployment:      [Linux, Docker, Kubernetes, CI/CD]
+  ops:             [Jenkins, GitHub Actions, CloudWatch, Grafana]
 
 security:
-  application:   [OWASP Top 10, Secure Coding]
-  api:           [Authentication, Authorization, OAuth 2.0, JWT]
-  infrastructure:[Linux Security, Docker Security]
-  data:          [Encryption, Secrets Management, PII Protection]
+  application:     [OWASP Top 10, Secure Coding]
+  api:             [Authentication, Authorization, OAuth 2.0, JWT]
+  infrastructure:  [Linux Security, Docker Security]
+  data:            [Encryption, Secrets Management, PII Protection]
 
 finance:
-  corporate:     [Corporate Finance, Financial Statements, FP&A]
-  audit:         [Audit Analytics, Internal Controls, Risk Assessment]
-  operations:    [Accounts Receivable, Accounts Payable, Reconciliation]
-  working_capital: [Working Capital, Cash Conversion Cycle, Cash Flow Optimization]
+  corporate:       [Corporate Finance, Financial Statements, FP&A]
+  audit:            [Audit Analytics, Internal Controls, Risk Assessment]
+  operations:       [Accounts Receivable, Accounts Payable, Reconciliation]
+  working_capital:  [Working Capital, Cash Conversion Cycle, Cash Flow Optimization]
 ```
 
-## ⌬ Featured Repositories
+## ⌬ Featured Builds
 
-> Selected projects. Explore the full registry on the [repositories tab](https://github.com/samridhisainii?tab=repositories).
+> Exploring ideas across AI, legal technology, real-time tracking, and business.
 
 | Project | Surface | Stack |
 |---|---|---|
+| `NayanGaya` | Legal-tech AI agents and intelligent legal workflows | Agentic AI · LLMs · Automation |
+| `EV Live AI Tracking` | Live EV tracking and AI-powered intelligence | AI · Data Engineering · Real-Time Systems |
+| `PerfDP` | Startup project focused on AI and product development | AI · Technology · Business |
 | `DataSage` | Natural-language data analysis agent | Python · SQL · LLMs |
 | `FinOps Insight Agent` | Transaction analysis and financial insights | Python · LangChain · LangGraph · RAG |
-| `NayanGaya` | Legal-tech and AI agent exploration | Agentic AI · Automation · Legal Tech |
+
+Explore more in the [repository registry](https://github.com/samridhisainii?tab=repositories).
 
 ## ⌘ Current Runtime
 
 ```yaml
 professional:
-  role:         Senior Executive - Analytics
-  organization: Deloitte
-  domains:      [Analytics, Data Engineering, AI Automation]
+  role:          Senior Executive - Analytics
+  organization:  Deloitte
+  domains:       [Analytics, Data Engineering, AI Automation]
 
-current_build:
-  focus:        [Legal AI Agents, Intelligent Workflows]
-  interests:    [LLMs, RAG, Agent Orchestration]
+building:
+  legal_tech:    NayanGaya
+  live_tracking: EV Live AI Tracking
+  startup:       PerfDP
+  interests:     [AI Agents, LLMs, RAG, Intelligent Workflows]
 
 toolchain:
-  coding:       [Cursor, GitHub Copilot]
-  assistants:   [ChatGPT, Claude, Microsoft Copilot]
-  automation:   [n8n, Zapier, Apache Airflow]
-  data_ai:      [Microsoft Fabric, LangChain, LangGraph]
+  coding:        [Cursor, GitHub Copilot]
+  assistants:    [ChatGPT, Claude, Microsoft Copilot]
+  automation:    [n8n, Zapier, Apache Airflow]
+  data_ai:       [Microsoft Fabric, LangChain, LangGraph]
 ```
 
 ## ◈ Side Quests
 
 ```yaml
 outside_work:
-  music:       Music Production
-  travel:      Exploring New Places
-  kitchen:     Cooking Experiments
-  sports:      Trying Different Sports
-  curiosity:   Exploring AI and Emerging Technologies
+  music:          Music Production
+  travel:         Exploring New Places
+  kitchen:        Cooking Experiments
+  sports:         Trying Different Sports
+  curiosity:      [AI, Emerging Technologies, Business, Entrepreneurship]
+  always_learning: [New Tools, New Ideas, New Ways to Build]
 ```
 
 ---
@@ -155,14 +165,14 @@ outside_work:
 
 **The Weeknd — Blinding Lights**
 
-<a href="https://open.spotify.com/search/Blinding%20Lights%20The%20Weeknd">
-  <img src="https://img.shields.io/badge/▶%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b">
+  <img src="https://img.shields.io/badge/▶%20Play%20Blinding%20Lights-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 ---
 
 **Less noise. More signal. Always building.**
 
-`data × AI × automation × music`
+`data × AI × automation × business × music`
 
 </div>
