@@ -1,6 +1,6 @@
  <div align="center">
 
-# `samridhi` &nbsp;·&nbsp; v3.7.0
+# `Samridhi` &nbsp;·&nbsp; v3.7.0
 
 **status:** ● building &nbsp; · &nbsp; **branch:** `Gurgaon/main` &nbsp; · &nbsp; **license:** human (MIT-ish)
 
@@ -110,7 +110,7 @@ finance:
   working_capital:  [Working Capital, Cash Conversion Cycle, Cash Flow Optimization]
 ```
 
-## ⌬ Featured Builds
+## ⌬ Working on
 
 > Exploring ideas across AI, legal technology, real-time tracking, and business.
 
@@ -118,11 +118,8 @@ finance:
 |---|---|---|
 | `NayanGaya` | Legal-tech AI agents and intelligent legal workflows | Agentic AI · LLMs · Automation |
 | `EV Live AI Tracking` | Live EV tracking and AI-powered intelligence | AI · Data Engineering · Real-Time Systems |
-| `PerfDP` | Startup project focused on AI and product development | AI · Technology · Business |
-| `DataSage` | Natural-language data analysis agent | Python · SQL · LLMs |
-| `FinOps Insight Agent` | Transaction analysis and financial insights | Python · LangChain · LangGraph · RAG |
+| `PerfDP` | Startup project focused on building EDP and product development | Design · Technology · Business |
 
-Explore more in the [repository registry](https://github.com/samridhisainii?tab=repositories).
 
 ## ⌘ Current Runtime
 
@@ -131,18 +128,6 @@ professional:
   role:          Senior Executive - Analytics
   organization:  Deloitte
   domains:       [Analytics, Data Engineering, AI Automation]
-
-building:
-  legal_tech:    NayanGaya
-  live_tracking: EV Live AI Tracking
-  startup:       PerfDP
-  interests:     [AI Agents, LLMs, RAG, Intelligent Workflows]
-
-toolchain:
-  coding:        [Cursor, GitHub Copilot]
-  assistants:    [ChatGPT, Claude, Microsoft Copilot]
-  automation:    [n8n, Zapier, Apache Airflow]
-  data_ai:       [Microsoft Fabric, LangChain, LangGraph]
 ```
 
 ## ◈ Side Quests
@@ -151,7 +136,7 @@ toolchain:
 outside_work:
   music:          Music Production
   travel:         Exploring New Places
-  kitchen:        Cooking Experiments
+  cooking:        Cooking Experiments
   sports:         Trying Different Sports
   curiosity:      [AI, Emerging Technologies, Business, Entrepreneurship]
   always_learning: [New Tools, New Ideas, New Ways to Build]
