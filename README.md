@@ -64,10 +64,10 @@ ai:
   evaluation:      [Ragas, DeepEval, Model Evaluation, Guardrails]
 
 backend:
-  frameworks:     [FastAPI, Django, Node.js, Express.js]
-  api:            [REST, gRPC, OpenAPI]
-  databases:      [PostgreSQL, MySQL, MongoDB, DynamoDB]
-  cache:          [Redis]
+  frameworks:      [FastAPI, Django, Node.js, Express.js]
+  api:             [REST, gRPC, OpenAPI]
+  databases:       [PostgreSQL, MySQL, MongoDB, DynamoDB]
+  cache:           [Redis]
 
 cloud:
   aws:             [EC2, ECS, S3, Lambda, SQS, EventBridge]
@@ -114,7 +114,6 @@ outside_work:
   cooking:         Cooking Experiments
   sports:          Trying Different Sports
   curiosity:       [AI, Emerging Technologies, Business, Entrepreneurship]
-  always_learning: [New Tools, New Ideas, New Ways to Build]
 ```
 
 ---
