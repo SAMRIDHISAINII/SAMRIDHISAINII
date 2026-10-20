@@ -80,7 +80,7 @@ security:
   data:            [Encryption, Secrets Management, PII Protection]
 
 finance:
-  corporate:       [Corporate Finance, Financial Statements, FP&A]
+  corporate:        [Corporate Finance, Financial Statements, FP&A]
   audit:            [Audit Analytics, Internal Controls, Risk Assessment]
   working_capital:  [Working Capital, Cash Conversion Cycle, Cash Flow Optimization]
 ```
@@ -100,20 +100,20 @@ finance:
 
 ```yaml
 professional:
-  role:          Senior Executive - Analytics
-  organization:  Deloitte
-  domains:       [Analytics, Data Engineering, AI Automation]
+  role:           Senior Executive - Analytics
+  organization:   Deloitte
+  domains:        [Analytics, Data Engineering, AI Automation]
 ```
 
 ## ◈ Side Quests
 
 ```yaml
 outside_work:
-  music:          Music Production
-  travel:         Exploring New Places
-  cooking:        Cooking Experiments
-  sports:         Trying Different Sports
-  curiosity:      [AI, Emerging Technologies, Business, Entrepreneurship]
+  music:           Music Production
+  travel:          Exploring New Places
+  cooking:         Cooking Experiments
+  sports:          Trying Different Sports
+  curiosity:       [AI, Emerging Technologies, Business, Entrepreneurship]
   always_learning: [New Tools, New Ideas, New Ways to Build]
 ```
 
