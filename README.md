@@ -58,8 +58,7 @@ data_engineering_and_analytics:
 
 ai:
   frameworks:      [LangChain, LangGraph, LlamaIndex]
-  llm_stack:       [LLMs, Generative AI, RAG, Embeddings, Transformers]
-  models:          [OpenAI Models, Claude Models, Open-Weight LLMs]
+  stack:           [LLMs, Generative AI, RAG, Embeddings, Transformers]
   agents:          [Tool Calling, Multi-Agent Systems, Agent Orchestration, MCP]
   vector_stores:   [FAISS, Chroma, Pinecone, Qdrant]
   evaluation:      [Ragas, DeepEval, Model Evaluation, Guardrails]
